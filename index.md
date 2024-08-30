@@ -16,7 +16,7 @@ Syntax highlighted code block
 ### Header 3
 
 - I can learn new commands to use in terminal
-- I can learn more about GitHub and hot collaborately work with others
+- I can learn more about GitHub and how to work collaborately with others
 - I like how the teachers are students who we can relate to more than normal professors
 
 1. Numbered
